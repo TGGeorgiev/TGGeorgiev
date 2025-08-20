@@ -23,10 +23,10 @@ I'm a motivated and adaptable professional currently transitioning into the tech
 
 ### 🚀 Goals
 
-- 🌱 Continue growing as a **developer** and **data analyst**
+- 🌱 Continue growing as a **developer** and **data science**
 - 🔍 Open to **junior** or **internship** opportunities in:
   - Python Development
-  - Data Analytics
+  - Data Science
   - Software Engineering
 
 ---
