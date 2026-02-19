@@ -12,7 +12,7 @@ I'm a motivated and adaptable professional currently transitioning into the tech
   - Problem-solving and algorithmic thinking
 - 📊 Currently diving deeper into:
   - Data Analysis & Visualization
-  - Machine Learning
+  - Machine Learning/AI
   - Real-world project development
 - 💪 My strengths:
   - Logical and analytical thinking
